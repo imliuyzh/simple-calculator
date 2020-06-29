@@ -1,0 +1,9 @@
+textarea {
+  resize: none;
+  background-color: rgb(247, 245, 245);
+}
+
+table {
+  border: 2px solid black;
+  padding: 5px;
+}
